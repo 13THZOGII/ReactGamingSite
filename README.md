@@ -1,8 +1,3 @@
-<p>Mobil Final</p>
+<p>Made with React. It is for entertainment and self-improvement purposes.</p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
-
-
-[@keyvanarasteh] (https://github.com/keyvanarasteh)
+![image](https://github.com/13THZOGII/ReactGamingSite/assets/132939884/7f582c6c-1177-41f5-983f-dbdfbf2c6714)
